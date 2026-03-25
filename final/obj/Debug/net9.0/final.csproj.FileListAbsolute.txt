@@ -1,0 +1,15 @@
+C:\project\new_copy\final\obj\Debug\net9.0\final.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\new_copy\final\obj\Debug\net9.0\final.AssemblyInfoInputs.cache
+C:\project\new_copy\final\obj\Debug\net9.0\final.AssemblyInfo.cs
+C:\project\new_copy\final\obj\Debug\net9.0\final.csproj.CoreCompileInputs.cache
+C:\project\new_copy\final\obj\Debug\net9.0\final.sourcelink.json
+C:\project\new_copy\final\bin\Debug\net9.0\final.exe
+C:\project\new_copy\final\bin\Debug\net9.0\final.deps.json
+C:\project\new_copy\final\bin\Debug\net9.0\final.runtimeconfig.json
+C:\project\new_copy\final\bin\Debug\net9.0\final.dll
+C:\project\new_copy\final\bin\Debug\net9.0\final.pdb
+C:\project\new_copy\final\obj\Debug\net9.0\final.dll
+C:\project\new_copy\final\obj\Debug\net9.0\refint\final.dll
+C:\project\new_copy\final\obj\Debug\net9.0\final.pdb
+C:\project\new_copy\final\obj\Debug\net9.0\final.genruntimeconfig.cache
+C:\project\new_copy\final\obj\Debug\net9.0\ref\final.dll
